@@ -1,0 +1,31 @@
+{
+  "character": "Klee",
+  "image": "klee.jpeg",
+  "description": "Klee is a playable Pyro character in Genshin Impact. The daughter of the intrepid and often quite destructive adventurer Alice, Klee takes after her mother in many ways, much to the dismay of the Knights of Favonius whom she has been entrusted to.",
+  "information": {
+    "constellations": [
+      "Chained Reactions",
+      "Explosive Frags",
+      "Exquisite Compound",
+      "Sparkly explosion",
+      "Nova Burst",
+      "Blazzing Delight"
+    ],
+    "weapons": [
+      "Kagura's Verity",
+      "Skyward Atlas",
+      "Memory of Dust",
+      "Solar Pearl",
+      "Docodo Tales",
+      "Magic Guide"
+    ],
+    "talents": [
+      "Normal attack: Kaboom!",
+      "Jumpy Dumpty",
+      "Sparks 'n' Splash",
+      "Pounding Surprise",
+      "Sparkling Burst",
+      "All of My Treasures"
+    ]
+  }
+}

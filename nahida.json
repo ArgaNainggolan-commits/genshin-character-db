@@ -1,0 +1,31 @@
+{
+  "character": "Nahida",
+  "image": "nahida.jpeg",
+  "description": "Nahida is a playable Dendro character in Genshin Impact. As Lesser Lord Kusanali, she strives to have a stronger presence in Sumeru now that she has been freed from her extensive confinement in the Sanctuary of Surasthana.",
+  "information": {
+    "constellations": [
+      "The Seed of Stored Knowledge",
+      "The Root of all Fullness",
+      "The Shoot of Conscious Attainment",
+      "The Stem of Manifest Inference",
+      "The Leaves of Enlightening Speech",
+      "The Fruit of reason's Culmination"
+    ],
+    "weapons": [
+      "a Thousand Floating Dreams",
+      "Kagura's Verity",
+      "The Widsith",
+      "Wandering Evenstar",
+      "Solar Pearl",
+      "skyward Atlas"
+    ],
+    "talents": [
+      "Normal attack: Akara",
+      "All schemes to Know",
+      "Illusory Heart",
+      "Compassion Illuminated",
+      "Awakening Elucidated",
+      "On All Things Meditated"
+    ]
+  }
+}
